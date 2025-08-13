@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 
 
 code is back u can do the get backup by git stash apply
+=======
+hey I wanna play music
+>>>>>>> Stashed changes
