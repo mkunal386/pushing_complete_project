@@ -1,6 +1,5 @@
 hey how are you
-<<<<<<< HEAD
+
 what about you
-=======
+
 i'm good what about
->>>>>>> 14eb12de11f1c189d8b3f7682ed62c6c5139d00c
