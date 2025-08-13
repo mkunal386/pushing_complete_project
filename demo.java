@@ -3,4 +3,6 @@ class working{
     int a=20;
     String f="kunal";
     byte by=2;
+    int add=10;
+    
 }
